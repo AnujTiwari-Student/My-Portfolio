@@ -1,14 +1,6 @@
 # Build a Stunning Portfolio with React JS using Styled-Components and framer-motion for awesome Animations
 
-
 ----------------------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------------------
-If you're using NodeJS 17+ versions then you have to edit below line in package.json file👇 <br />
-"start": "react-scripts start", <br />
-Just add --openssl-legacy-provider like this👇 <br />
-"start": "react-scripts --openssl-legacy-provider start", <br />
-
 
 ### Images of The Portfolio Website:
 ![HOME](https://github.com/codebucks27/React-Portfolio-starter-code-files/blob/main/Portfolio%20Images/Home.png)
