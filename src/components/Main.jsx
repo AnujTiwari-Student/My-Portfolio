@@ -25,9 +25,13 @@ h2,h3,h4,h5,h6{
 
 @media (max-width: 768px){
     font-size: calc(0.6rem + 1vw);
+    height: 100svh;
+    overflow-y: hidden;
 };
 @media (min-width: 768px) and (max-width: 1024px){
     font-size: calc(0.8rem + 1vw);
+    height: 100svh;
+    overflow-y: hidden;
 };
 `
 
