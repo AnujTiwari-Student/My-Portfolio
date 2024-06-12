@@ -61,6 +61,10 @@ justify-content: space-between;
     width: 30vw;
     height: 65vh;
   };
+  
+  @media (min-width: 1280px){
+    font-size: calc(0.3rem + 0.5vw);
+  };
 `
 
 const Title = styled.h2`
